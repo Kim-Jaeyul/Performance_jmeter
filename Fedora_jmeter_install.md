@@ -43,9 +43,9 @@ drwxr-xr-x. 2 root root        6 Nov 10 11:48 Videos
 [root@jmeter ~]# 
 [root@jmeter ~]# mv apache-jmeter-$JMETER_VERSION /usr/local/jmeter
 [root@jmeter ~]# 
-[root@jmeter ~]# export PATH=$JMETER_HOME/bin:$PATH
-[root@jmeter ~]# 
 [root@jmeter ~]# export JMETER_HOME=/usr/local/jmeter/apache-jmeter-5.3
+[root@jmeter ~]# 
+[root@jmeter ~]# export PATH=$JMETER_HOME/bin:$PATH
 [root@jmeter ~]# 
 [root@jmeter ~]# jmeter -v
     _    ____   _    ____ _   _ _____       _ __  __ _____ _____ _____ ____
